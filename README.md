@@ -1,7 +1,8 @@
 # FlyFlou
 Organizador de Archivos
 ## ⚠️ Aviso al instalar
-Aviso,este programa esta casi totalmente creado con la estimable ayuda de CLAUDE IA,sin ella no hubiera sido posible
+Aviso,este programa esta casi totalmente creado con la estimable ayuda de CLAUDE IA,sin ella no hubiera sido posible.
+
 Windows puede mostrarte un aviso azul de **"Windows protegió su PC"** o **"Editor desconocido"** al ejecutar el instalador. Esto es normal en aplicaciones de desarrolladores independientes que no pagan un certificado de firma digital (bastante caro para un proyecto personal y gratuito).
 
 FlyFlou es seguro. Si quieres comprobarlo tú mismo, puedes escanear el archivo en [VirusTotal](https://www.virustotal.com) antes de instalarlo.
