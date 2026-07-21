@@ -19,3 +19,9 @@ Solo 3 de 70 motores antivirus lo marcan, y son falsos positivos típicos de eje
 
 ## 📄 Guía rápida
 ¿Primera vez con FlyFlou? Consulta la [guía rápida en PDF](https://github.com/kuakero/FlyFlou/blob/main/FlyFlou_Guia_Rapida.pdf) con instrucciones de instalación y primeros pasos.
+
+## Novedades v1.1
+- Modo oscuro/claro
+- Asistente de "Primeros pasos" al abrir la app por primera vez
+- Aviso automático cuando hay una versión nueva disponible
+
